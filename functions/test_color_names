@@ -24,3 +24,5 @@ echo
 echo -e "$c[azure] COLOR      AZURE ${c[reset]} ${c[blue]} COLOR    BLUE ${c[reset]} ${c[violet]} COLOR      VIOLET ${c[reset]}"
 echo
 echo -e "                   ${c[magenta]} COLOR MAGENTA ${c[reset]}"
+
+echo
